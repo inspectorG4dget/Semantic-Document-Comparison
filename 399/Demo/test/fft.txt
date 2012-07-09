@@ -1,0 +1,1 @@
+So far, we have studied combinational circuits.

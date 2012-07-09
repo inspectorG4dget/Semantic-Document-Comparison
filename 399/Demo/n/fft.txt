@@ -1,0 +1,5 @@
+So far, we have studied combinational circuits. These circuits did not have state.
+
+Sequential circuits are a combinational circuit followed by storage elements.  The storage elements store the current state of the circuit. That state is used as an input into the combinational circuit and is updated at the end of each cycle.
+
+A clock is used to regulate the circuit. The combinational circuit executes during the low phase of the clock cycle, and the storage must complete during the high phase of the clock cycle. This determines the speed of the circuit.
